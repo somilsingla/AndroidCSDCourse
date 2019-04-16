@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "163605283828",
+    "firebase_url": "https://androidcsdcourse-509bd.firebaseio.com",
+    "project_id": "androidcsdcourse-509bd",
+    "storage_bucket": "androidcsdcourse-509bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163605283828:android:df296a09bcdf5550",
+        "android_client_info": {
+          "package_name": "com.example.androidcsdcourse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "163605283828-vm626sn1a8a6vq14acv4mmqjeq37l5af.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.androidcsdcourse",
+            "certificate_hash": "eff39afb930ecd442863fcc29639f4dda39ea5f5"
+          }
+        },
+        {
+          "client_id": "163605283828-3d03fb0etavtbpgla71083v77tk91249.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXKL8mhC8C-wlvfoE9-akqREFQZdbEokw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "163605283828-3d03fb0etavtbpgla71083v77tk91249.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
